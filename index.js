@@ -7,6 +7,6 @@ const morgan = require("morgan");
 
 dotenv.config();
 
-app.listen(8080, () => {
+app.listen(3000, () => {
   console.log("Backend running");
 });
